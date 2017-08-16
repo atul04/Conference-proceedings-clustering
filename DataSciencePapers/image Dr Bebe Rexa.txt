@@ -1,0 +1,7 @@
+Title : Geometric transformations: affine or perspective or rubbersheet warps and image morphing
+
+Author : Dr. Bebe Rexa
+
+Abstract : Registration and mosaicing of images have been in practice since long before the age of digital computers. Shortly after the photographic process was developed in 1839, the use of photographs was demonstrated on topographical mapping. Images acquired from hill-tops or balloons were manually pieced together. After the development of airplane technology (1903) aerophotography became an exciting new field. The limited flying heights of the early airplanes and the need for large photo-maps, forced imaging experts to construct mosaic images from overlapping photographs. This was initially done by manually mosaicing images which were acquired by calibrated equipment. The need for mosaicing continued to increase later in history as satellites started sending pictures back to earth. Improvements in computer technology became a natural motivation to develop computational techniques and to solve related problems.
+
+keywords : moasicing, image processing, image morphing, warps

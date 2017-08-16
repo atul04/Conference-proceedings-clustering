@@ -1,0 +1,7 @@
+Tile :  Fourier transforms (DFT, FFT) and frequency-domain filtering
+
+Author : Dr. Maroon Five
+
+Abstract : The Fourier Transform is an important image processing tool which is used to decompose an image into its sine and cosine components. The output of the transformation represents the image in the Fourier or frequency domain, while the input image is the spatial domain equivalent. In the Fourier domain image, each point represents a particular frequency contained in the spatial domain image.The Fourier Transform is used in a wide range of applications, such as image analysis, image filtering, image reconstruction and image compression.
+
+Keywords : image processing, spatial filtering, compression

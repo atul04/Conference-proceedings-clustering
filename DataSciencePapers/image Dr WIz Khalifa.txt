@@ -1,0 +1,7 @@
+Title : Rotation and affine moment invariants
+
+Author : Dr. Wiz Khalifa
+
+Abstract : The satellite images show the same area in Bohemia, north-west from Prague. One of them is Landsat from August 28, 1990, the other is Spot from May 13, 1986, the images were scaled twice down. The Landsat image has resolution 30 m and 7 spectral bands. We computed principal component analysis and used 3 most important components (upper left image) as input for color segmentation by means of region growing. The Spot image has resolution 20 m and its 3 spectral bands were used directly for the segmentation (upper right image). The Spot image was used without correction to skew caused by Earth's rotation to test the affine invariance of the features. A noise was reduced in both images by minimization of the Mumford - Shah functional (middle row of images). Segmented regions are in the bottom row of images, that with a counterpart in the other image are numbered, the matched ones have numbers in a circle. All three methods yielded similar results.
+
+Keywords : satellite, image processing, landsat, affine invariance

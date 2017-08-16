@@ -1,0 +1,7 @@
+Title : Object detection and tracking
+
+Author : Dr Charlie Puth
+
+Abstract : Object tracking is one of the major fundamental challenging problems in computer vision applications due to difficulties in tracking of objects can arises due to intrinsic and extrinsic factors like deformation, camera motion, motion blur and occlusion. This paper proposes a literature review on several state of the-art object detection and tracking algorithms in order to reduce the tracking drift.
+
+Keywords : Object Tracking, image processing, vision

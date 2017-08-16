@@ -1,0 +1,7 @@
+Title : Point-Based Projective Invariants
+
+Author : Dr. RahiSankar Maurya Prasad
+
+Abstract : A cut of a Landsat Thematic Mapper image of north-east Bohemia (surroundings of the town Trutnov) from 29 august 1990 (256 x 256 - first image) was registered with an aerial image from 1984 (180 x 256 - second image) with relatively strong projective distortion. 16 points was selected in the aerial image, 18 points was selected in the satellite one, 10 of them have counterparts in the other image (labeled x, the points without counterparts are labeled +). The aerial image was registered by means of projective and permutation invariants (third image) and a color composition of the registered images is shown (fourth image).
+
+Keywords : landsat, thematic iamgesation, image processing, Invariants
